@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "date_start": "1688850000",
+    "date_finish": "1688997643",
+    "name": "My task",
+    "description": "Описание моего дела"
+  },
+  {
+    "id": 3,
+    "date_start": "1688565600",
+    "date_finish": "1688569200",
+    "name": "Business Trip to Paris",
+    "description": "Meeting with potential partners in Paris and exploring the city"
+  },
+  {
+    "id": 2,
+    "date_start": "1688558400",
+    "date_finish": "1688562000",
+    "name": "Meeting with Client X",
+    "description": "Discussing the new project with Client X"
+  }
+]
